@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### TABLEAU VISUALIZATION
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sales Visualization Dashboard](https://github.com/oaduloju/Visualization/blob/master/Capture.JPG)
+<img src="images/Capture.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Car Sales Dashboard](https://github.com/oaduloju/Visualization/blob/master/Car%20Purchase%20Dashboard.JPG)
+<img src="images/Car Purchase Dashboard.JPG?raw=true"/>
+
+---
+[Sales Dashboard](https://github.com/oaduloju/Visualization/blob/master/Sales%20Dashboard.JPG)
+<img src="images/Sales Dashboard.JPG?raw=true"/>
 
 ---
 
