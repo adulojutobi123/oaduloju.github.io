@@ -22,4 +22,4 @@
 
 ### Other Tableau Projects
 
-- [Tableau Portfolio] (https://public.tableau.com/app/profile/oluwatobi.aduloju)
+[Tableau Portfolio](https://public.tableau.com/app/profile/oluwatobi.aduloju)
