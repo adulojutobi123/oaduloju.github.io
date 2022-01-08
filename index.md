@@ -23,7 +23,7 @@
 
 ### Power BI Projects
 
-[Sales Dashboard] (https://app.powerbi.com/groups/me/reports/56e4fe6b-912e-4bb0-ae97-8b09e1154df5/ReportSection)
+[Sales Dashboard](https://app.powerbi.com/groups/me/reports/56e4fe6b-912e-4bb0-ae97-8b09e1154df5/ReportSection)
 <br>
 <img src="images/PowerBI Screenshot Orig.png?raw=true"/>
 
