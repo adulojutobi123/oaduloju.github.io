@@ -30,3 +30,6 @@
 <br>
 <img src="images/PowerBI Screenshot Orig.png?raw=true"/>
 
+---
+### SQL Projects
+[SQL Projects] ()
