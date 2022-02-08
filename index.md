@@ -30,3 +30,6 @@
 <br>
 <img src="images/PowerBI Screenshot Orig.png?raw=true"/>
 
+---
+### SQL Projects
+[Danny's Diner](https://sqliteonline.com/#share=7e8dbee414144b19b52de2c6c7cb0681315246e09aec21008174a47dcca8bc4f)
