@@ -32,4 +32,4 @@
 
 ---
 ### SQL Projects
-[SQL Projects](https://sqliteonline.com/#share=d4b677ec9ad2634b3c87225ef7aa1b53b7ef053ac721f73315164b2f853b270b)
+[Danny's Diner](https://sqliteonline.com/#share=7e8dbee414144b19b52de2c6c7cb0681315246e09aec21008174a47dcca8bc4f)
